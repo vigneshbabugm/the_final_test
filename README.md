@@ -1,4 +1,5 @@
 # the_final_test
+Please Download Unity First
 2D game where strokes are used as inputs to invoke fight moves, movement is taken care by keyboard. Mouse is used to input the sketch.
 
 The ProjectasUnityPackage contains the entire project as a unity package, This can be imported in unity to and can be checked to see all the assignments and working.
