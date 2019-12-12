@@ -67,7 +67,7 @@ namespace Platformer.Mechanics
 
         private bool isClassified;
 
-        public string myTemplatePath = "D:\\Files\\Sketch Recognition\\Project\\SketchRecognition\\Assets\\Scripts\\templates";
+        public string myTemplatePath = "Assets/Scripts/templates";
         
         public int myHealth = 100;
 
